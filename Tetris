@@ -70,10 +70,6 @@
     <button class="btn share-btn" onclick="share()">Share</button>
 </div>
 
-<footer>
-    <p>Visit the game at: <a href="http://localhost:63342/projects_and_works/website.html?_ijt=71v75b3mm4embokrmaind5rjkr&_ij_reload=RELOAD_ON_SAVE">Chris' Game</a></p>
-</footer>
-
 <script>
     const canvas = document.getElementById('tetris');
     const context = canvas.getContext('2d');
